@@ -1,0 +1,6 @@
+{
+  "name": "SATHI AI",
+  "description": "Futuristic personal AI assistant powered by Gemini with Bengali, Hindi, and English voice, chat history, image understanding, AI image studio, and device launch commands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
